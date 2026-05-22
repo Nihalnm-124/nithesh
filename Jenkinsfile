@@ -3,7 +3,7 @@ pipeline {
 
     environment {
         DOCKERHUB_CREDENTIALS = 'gabri1'//give your credential name
-        IMAGE_NAME = 'Nihalnm-124/gabri1'//give your image name
+        IMAGE_NAME = 'nihalnm124/gabri1'//give your image name
     }
 
     stages {
